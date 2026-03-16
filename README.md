@@ -9,6 +9,6 @@ Backend: Supabase và Firebase
 
 ## Tài liệu bổ sung
 
-[Đặc tả chi tiết](./docs/SPEC.md)
-[Cơ sở dữ liệu](./docs/DATABASE.md)
-[Kế hoạch dự kiến](./docs/PLANNING.md)
+- [Đặc tả chi tiết](./docs/SPEC.md)
+- [Cơ sở dữ liệu](./docs/DATABASE.md)
+- [Kế hoạch dự kiến](./docs/PLANNING.md)
