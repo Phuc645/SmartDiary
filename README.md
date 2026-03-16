@@ -4,8 +4,8 @@ SmartDiary là một ứng dụng di động. Ứng dụng hoạt động như m
 
 ## Công nghệ sử dụng
 
-Frontend: React Native
-Backend: Supabase và Firebase
+- Frontend: React Native
+- Backend: Supabase và Firebase
 
 ## Tài liệu bổ sung
 
