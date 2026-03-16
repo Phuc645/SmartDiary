@@ -1,6 +1,6 @@
 # Tổng quan dự án Smart Diary
 
-SmartDiary là một ứng dụng di động. Ứng dụng hoạt động như một nhật ký, cho phép người dùng nhập một ngày của họ và có thể sử dụng chế độ chatbot để AI đưa ra lời khuyên và phân tích
+SmartDiary là một ứng dụng di động. Ứng dụng hoạt động như một nhật ký, cho phép người dùng nhập một ngày của họ và có thể sử dụng chế độ chatbot để AI đưa ra lời khuyên và phân tích.
 
 ## Công nghệ sử dụng
 
